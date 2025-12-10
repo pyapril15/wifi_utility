@@ -8,7 +8,7 @@ from titlebar import CustomTitlebar
 from tray import SystemTray
 from updater import UpdateChecker
 
-APP_VERSION = "1.0.0"
+APP_VERSION = "1.0.1"
 
 # Colors
 COLOR_PRIMARY = "#2DC0A9"  # Teal from icon
